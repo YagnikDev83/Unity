@@ -4,28 +4,28 @@
             "isFeatured": false,
             "backgroundName": "Hard_Christmas_Candies",
             "sceneName": "Hard_Christmas_Candies",
-            "sceneCategory": 0,
+            "sceneCategory": 1,
             "sceneStatusLabel": 1
         },
         {
             "isFeatured": false,
             "backgroundName": "Hard_Christmas_Gifts",
             "sceneName": "Hard_Christmas_Gifts",
-            "sceneCategory": 0,
+            "sceneCategory": 2,
             "sceneStatusLabel": 2
         },
         {
             "isFeatured": false,
             "backgroundName": "Hard_Christmas_Nutcracker",
             "sceneName": "Hard_Christmas_Nutcracker",
-            "sceneCategory": 0,
+            "sceneCategory": 3,
             "sceneStatusLabel": 3
         },
         {
             "isFeatured": false,
             "backgroundName": "Hard_Grenade",
             "sceneName": "Hard_Grenade",
-            "sceneCategory": 0,
+            "sceneCategory": 4,
             "sceneStatusLabel": 1
         },
         {
