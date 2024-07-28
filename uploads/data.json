@@ -1,39 +1,91 @@
 {
     "SceneConfig": [
         {
-            "isFeatured": true,
-            "backgroundName": "Y",
-            "sceneName": "T",
+            "isFeatured": false,
+            "backgroundName": "Hard_Christmas_Candies",
+            "sceneName": "Hard_Christmas_Candies",
             "sceneCategory": 1,
             "sceneStatusLabel": 1
         },
         {
             "isFeatured": false,
-            "backgroundName": "X",
-            "sceneName": "U",
+            "backgroundName": "Hard_Christmas_Gifts",
+            "sceneName": "Hard_Christmas_Gifts",
             "sceneCategory": 2,
             "sceneStatusLabel": 2
         },
         {
-            "isFeatured": true,
-            "backgroundName": "Z",
-            "sceneName": "V",
+            "isFeatured": false,
+            "backgroundName": "Hard_Christmas_Nutcracker",
+            "sceneName": "Hard_Christmas_Nutcracker",
             "sceneCategory": 3,
             "sceneStatusLabel": 3
         },
         {
             "isFeatured": false,
-            "backgroundName": "W",
-            "sceneName": "S",
-            "sceneCategory": 1,
-            "sceneStatusLabel": 0
+            "backgroundName": "Hard_Grenade",
+            "sceneName": "Hard_Grenade",
+            "sceneCategory": 4,
+            "sceneStatusLabel": 1
         },
         {
-            "isFeatured": true,
-            "backgroundName": "A",
-            "sceneName": "R",
-            "sceneCategory": 2,
+            "isFeatured": false,
+            "backgroundName": "Hard_Mms",
+            "sceneName": "Hard_Mms",
+            "sceneCategory": 5,
+            "sceneStatusLabel": 2
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Hard_PoolBall",
+            "sceneName": "Hard_PoolBall",
+            "sceneCategory": 6,
+            "sceneStatusLabel": 3
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Hard_RubikCube",
+            "sceneName": "Hard_RubikCube",
+            "sceneCategory": 7,
             "sceneStatusLabel": 1
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Hard_Silver",
+            "sceneName": "Hard_Silver",
+            "sceneCategory": 8,
+            "sceneStatusLabel": 2
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Soft_Basketball",
+            "sceneName": "Soft_Basketball",
+            "sceneCategory": 9,
+            "sceneStatusLabel": 3
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Soft_BeachBall",
+            "sceneName": "Soft_BeachBall",
+            "sceneCategory": 10,
+            "sceneStatusLabel": 1
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Soft_Cat_02",
+            "sceneName": "Soft_Cat_02",
+            "sceneCategory": 11,
+            "sceneStatusLabel": 2
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "Soft_Chicken",
+            "sceneName": "Soft_Chicken",
+            "sceneCategory": 12,
+            "sceneStatusLabel": 3
         }
+       
+
+
     ]
 }
