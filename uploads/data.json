@@ -1,0 +1,39 @@
+{
+    "SceneConfig": [
+        {
+            "isFeatured": true,
+            "backgroundName": "Y",
+            "sceneName": "T",
+            "sceneCategory": 1,
+            "sceneStatusLabel": 1
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "X",
+            "sceneName": "U",
+            "sceneCategory": 2,
+            "sceneStatusLabel": 2
+        },
+        {
+            "isFeatured": true,
+            "backgroundName": "Z",
+            "sceneName": "V",
+            "sceneCategory": 3,
+            "sceneStatusLabel": 3
+        },
+        {
+            "isFeatured": false,
+            "backgroundName": "W",
+            "sceneName": "S",
+            "sceneCategory": 1,
+            "sceneStatusLabel": 0
+        },
+        {
+            "isFeatured": true,
+            "backgroundName": "A",
+            "sceneName": "R",
+            "sceneCategory": 2,
+            "sceneStatusLabel": 1
+        }
+    ]
+}
