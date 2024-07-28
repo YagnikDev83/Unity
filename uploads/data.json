@@ -20,77 +20,8 @@
             "sceneName": "Hard_Christmas_Nutcracker",
             "sceneCategory": 3,
             "sceneStatusLabel": 3
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Hard_Grenade",
-            "sceneName": "Hard_Grenade",
-            "sceneCategory": 4,
-            "sceneStatusLabel": 1
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Hard_Mms",
-            "sceneName": "Hard_Mms",
-            "sceneCategory": 5,
-            "sceneStatusLabel": 2
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Hard_PoolBall",
-            "sceneName": "Hard_PoolBall",
-            "sceneCategory": 6,
-            "sceneStatusLabel": 3
-        },
-        {
-            "isFeatured": true,
-            "backgroundName": "Hard_RubikCube",
-            "sceneName": "Hard_RubikCube",
-            "sceneCategory": 7,
-            "sceneStatusLabel": 1
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Hard_Silver",
-            "sceneName": "Hard_Silver",
-            "sceneCategory": 8,
-            "sceneStatusLabel": 2
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Soft_Basketball",
-            "sceneName": "Soft_Basketball",
-            "sceneCategory": 9,
-            "sceneStatusLabel": 3
-        },
-        {
-            "isFeatured": true,
-            "backgroundName": "Soft_BeachBall",
-            "sceneName": "Soft_BeachBall",
-            "sceneCategory": 10,
-            "sceneStatusLabel": 1
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Soft_Cat_02",
-            "sceneName": "Soft_Cat_02",
-            "sceneCategory": 11,
-            "sceneStatusLabel": 2
-        },
-        {
-            "isFeatured": false,
-            "backgroundName": "Soft_Chicken",
-            "sceneName": "Soft_Chicken",
-            "sceneCategory": 12,
-            "sceneStatusLabel": 3
-        },
-        {
-            "isFeatured": true,
-            "backgroundName": "Soft_Pepe",
-            "sceneName": "Soft_Pepe",
-            "sceneCategory": 8,
-            "sceneStatusLabel": 3
         }
+       
 
 
     ]
