@@ -43,7 +43,7 @@
             "sceneStatusLabel": 3
         },
         {
-            "isFeatured": false,
+            "isFeatured": true,
             "backgroundName": "Hard_RubikCube",
             "sceneName": "Hard_RubikCube",
             "sceneCategory": 7,
@@ -64,7 +64,7 @@
             "sceneStatusLabel": 3
         },
         {
-            "isFeatured": false,
+            "isFeatured": true,
             "backgroundName": "Soft_BeachBall",
             "sceneName": "Soft_BeachBall",
             "sceneCategory": 10,
@@ -83,8 +83,14 @@
             "sceneName": "Soft_Chicken",
             "sceneCategory": 12,
             "sceneStatusLabel": 3
+        },
+        {
+            "isFeatured": true,
+            "backgroundName": "Soft_Pepe",
+            "sceneName": "Soft_Pepe",
+            "sceneCategory": 8,
+            "sceneStatusLabel": 3
         }
-       
 
 
     ]
